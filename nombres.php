@@ -1,0 +1,2 @@
+
+class nombres extends controller
